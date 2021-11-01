@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Number134" />
+        <module name="Number133" />
+        <module name="Number24" />
+        <module name="Number213" />
+        <module name="Number1094" />
+        <module name="Number655" />
+        <module name="Offer2-004" />
+        <module name="Number654" />
+        <module name="Offer2-006" />
+        <module name="Offer2-005" />
+        <module name="Offer2-082" />
+        <module name="Number1893" />
+        <module name="Offer2-081" />
+        <module name="Number1334" />
+        <module name="Number62" />
+        <module name="Offer2-083" />
+        <module name="Number61" />
+        <module name="Number692" />
+        <module name="Number63" />
+        <module name="Number1976" />
+        <module name="Number1219" />
+        <module name="Number1418" />
+        <module name="Interview01-07" />
+        <module name="Number5" />
+        <module name="Offer2-119" />
+        <module name="Offer2-099" />
+        <module name="Offer2-054" />
+        <module name="Offer2-098" />
+        <module name="Number983" />
+        <module name="Number787" />
+        <module name="Number743" />
+        <module name="Number1361" />
+        <module name="Number547" />
+        <module name="Number1561" />
+        <module name="Interview08-09" />
+        <module name="Number1288" />
+        <module name="Number1642" />
+        <module name="Number96" />
+        <module name="Number142" />
+        <module name="Number1647" />
+        <module name="Interview04-08" />
+        <module name="Number19" />
+        <module name="Number945" />
+        <module name="Number114" />
+        <module name="Offer2-024" />
+        <module name="Number1395" />
+        <module name="Number1114" />
+        <module name="Number1631" />
+        <module name="Number1115" />
+        <module name="Number2008" />
+        <module name="Number198" />
+        <module name="Number1116" />
+        <module name="Number230" />
+        <module name="Number1514" />
+        <module name="Number1319" />
+        <module name="Offer1-029" />
+        <module name="Number912" />
+        <module name="Offer1-063" />
+        <module name="Offer2-110" />
+        <module name="Number684" />
+        <module name="Offer2-077" />
+        <module name="Number122" />
+        <module name="Number1382" />
+        <module name="Number841" />
+        <module name="Offer2-116" />
+        <module name="Number1388" />
+        <module name="Number1302" />
+        <module name="Interview02-05" />
+        <module name="NC78" />
+        <module name="Interview17-14" />
+        <module name="Number207" />
+        <module name="Number526" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Numberr96" target="16" />
+      <module name="Solution" target="16" />
+      <module name="面试题 02.05. 链表求和" target="16" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
