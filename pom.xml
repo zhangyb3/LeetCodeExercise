@@ -83,6 +83,7 @@
         <module>Interview01-07</module>
         <module>Offer1-029</module>
         <module>Number134</module>
+        <module>DataStructure</module>
     </modules>
 
     <properties>
