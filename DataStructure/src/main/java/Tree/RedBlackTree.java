@@ -104,7 +104,7 @@ public class RedBlackTree<K extends Comparable<K>,V> {
         if(y.right != null){
             y.right.parent = x;
         }
-        x.parent = y.parent;
+        y.parent = x.parent;
         if(x.parent != null){
             //x是左子
             if(x == x.parent.left){
