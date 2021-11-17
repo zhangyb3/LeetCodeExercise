@@ -132,6 +132,7 @@ public class RedBlackTree<K extends Comparable<K>,V> {
         node.value = value;
         node.color = RED;
         insert(node);
+
     }
     private void insert(RBNode node) {
         RBNode parent = null;
@@ -162,7 +163,7 @@ public class RedBlackTree<K extends Comparable<K>,V> {
             this.root = node;
             node.color = BLACK;
         }
-
+        reBalanceTree(node);
     }
     private void reBalanceTree(RBNode node){
         this.root.color = BLACK;
