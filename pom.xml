@@ -84,6 +84,9 @@
         <module>Offer1-029</module>
         <module>Number134</module>
         <module>DataStructure</module>
+        <module>MultiThread</module>
+        <module>SimpleTest</module>
+        <module>Number15</module>
     </modules>
 
     <properties>

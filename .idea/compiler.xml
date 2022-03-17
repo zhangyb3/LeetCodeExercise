@@ -37,6 +37,7 @@
         <module name="Number983" />
         <module name="Number787" />
         <module name="Number743" />
+        <module name="Number15" />
         <module name="Number1361" />
         <module name="Number547" />
         <module name="Number1561" />
@@ -76,9 +77,11 @@
         <module name="Number1302" />
         <module name="Interview02-05" />
         <module name="NC78" />
+        <module name="MultiThread" />
         <module name="Interview17-14" />
         <module name="Number207" />
         <module name="Number526" />
+        <module name="SimpleTest" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

@@ -29,6 +29,14 @@ class Solution {
     }
 
     public static void main(String[] args) {
+//        int jc = 1;
+//        int sum = 0;
+//        for(int i = 1; i <= 10; i++){
+//            jc = jc * i;
+//            sum = sum + jc;
+//        }
+//        System.out.println(sum);
+
         TreeNode node3 = new TreeNode(3);
         TreeNode node4 = new TreeNode(4);
         TreeNode node6 = new TreeNode(6);
@@ -38,5 +46,28 @@ class Solution {
         Solution solution = new Solution();
         solution.convertToOnlyRight(node1);
         System.out.println("finish");
+
+
+
     }
+
+    Thread A = new Thread(new Runnable() {
+        @Override
+        public void run() {
+            System.out.println("B");
+        }
+    });
+    Thread B = new Thread(new Runnable() {
+        @Override
+        public void run() {
+            System.out.println("C");
+        }
+    });
+    Thread C = new Thread(new Runnable() {
+        @Override
+        public void run() {
+            System.out.println("A");
+        }
+    });
+
 }
